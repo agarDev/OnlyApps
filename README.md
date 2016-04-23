@@ -1,5 +1,6 @@
 ## OnlyApps
 ![OnlyApps](https://github.com/agarDev/OnlyApps/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+
 See Only Apps in Google Play Store, without Other Distractions !
 
 ## Description
