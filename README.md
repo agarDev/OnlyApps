@@ -1,6 +1,6 @@
 ## OnlyApps
-See Only Apps in Google Play Store, without Other Distractions !
 ![OnlyApps](https://github.com/agarDev/OnlyApps/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
+See Only Apps in Google Play Store, without Other Distractions !
 
 ## Description
 Easily hide the ever distracting and annoying games from Play Store and get down to the serious business of finding "Only Apps".
